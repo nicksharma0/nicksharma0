@@ -3,8 +3,6 @@ Prosper | College Station, Texas
 - **Email:** sharma.nick67@gmail.com  
 - **LinkedIn:** [Link](https://www.linkedin.com/in/nick-sharma1/)
 
----
-
 <h2>🎓 Education:</h2>
 **Texas A&M University** — College Station, Texas  
 *Incoming Student*  
@@ -15,8 +13,6 @@ Graduation: May 2029
 GPA: 4.0  
 Student of the Month: January 2022  
 Graduation: May 2025
-
----
 
 <h2>🚀 Projects:</h2>
 *Add your project descriptions here.*
