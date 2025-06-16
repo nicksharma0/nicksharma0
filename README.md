@@ -1,6 +1,6 @@
 # Nick Sharma
 
-**Location:** Prosper, Texas 
+**Location:** Prosper, Texas
 **Email:** sharma.nick67@gmail.com  
 **LinkedIn:** [Link](https://www.linkedin.com/in/nick-sharma1/)
 
