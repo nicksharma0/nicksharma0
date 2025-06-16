@@ -1,4 +1,5 @@
-# Nick Sharma
+<h1>Hey, I'm Nick! <br/><a href="https://github.com/nicksharma0">Programmer</a>, Student, and aspiring quantitative real estate analyst — exploring how data and code can transform the property market.</h1>
+
 Prosper & College Station, Texas
 - **Email:** sharma.nick67@gmail.com  
 - **LinkedIn:** [Link](https://www.linkedin.com/in/nick-sharma1/)
