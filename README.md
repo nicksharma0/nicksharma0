@@ -4,6 +4,7 @@ Prosper & College Station, Texas
 - sharma.nick67@gmail.com  
 
 <h2>🎓 Education:</h2>
+
 **Texas A&M University** — College Station, Texas  
 *Incoming Student*  
 Bachelor of Arts in Computer Science  
