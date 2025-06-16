@@ -1,8 +1,7 @@
 <h1>Hey, I'm Nick! <br/><a href="https://github.com/nicksharma0">Programmer</a>, student, and aspiring quantitative finance analyst.</h1>
 
 Prosper & College Station, Texas
-- **Email:** sharma.nick67@gmail.com  
-- **LinkedIn:** [Link](https://www.linkedin.com/in/nick-sharma1/)
+- sharma.nick67@gmail.com  
 
 <h2>🎓 Education:</h2>
 **Texas A&M University** — College Station, Texas  
