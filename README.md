@@ -17,7 +17,7 @@ Graduation: May 2025
 
 <h2>🚀 Projects:</h2>
 - <b>AI Cold Email Generator)</b>
-  - (Generates a cold email when prompted with the users resume and job specification.)[https://github.com/nicksharma0/resume-ai]
+  - [Praciting DS & Algos in Python](https://github.com/nicksharma0/resume-ai)
 
 <h2> 🤳 Connect with me:</h2>
 
