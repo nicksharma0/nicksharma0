@@ -1,16 +1,29 @@
-## Hi there 👋
+# Nick Sharma
 
-<!--
-**nicksharma0/nicksharma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Location:** Prosper, Texas 
+**Email:** sharma.nick67@gmail.com  
+**LinkedIn:** [Your LinkedIn URL]  
+**GitHub:** [Your GitHub URL]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Texas A&M University** — College Station, Texas  
+*Incoming Student*  
+Bachelor of Arts in Computer Science  
+Graduation: May 2029
+
+**Prosper High School** — Prosper, Texas  
+GPA: 4.0  
+Student of the Month: January 2022  
+Graduation: May 2025
+
+---
+
+## 🚀 Projects
+
+*Add your project descriptions here.*
+
+---
+
+Connect with me
