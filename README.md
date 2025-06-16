@@ -17,12 +17,12 @@ Graduation: May 2025
 
 <h2>🚀 Projects:</h2>
 - <b>AI Cold Email Generator)</b>
-  - [Praciting DS & Algos in Python](https://github.com/nicksharma0/resume-ai)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nick Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nick Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/nick.sharma06/
 [linkedin]: https://www.linkedin.com/in/nick-sharma1
