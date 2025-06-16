@@ -5,7 +5,7 @@ Prosper | College Station, Texas
 
 ---
 
-## 🎓 Education
+<h2>🎓 Education:</h2>
 **Texas A&M University** — College Station, Texas  
 *Incoming Student*  
 Bachelor of Arts in Computer Science  
@@ -18,10 +18,10 @@ Graduation: May 2025
 
 ---
 
-## 🚀 Projects
-
+<h2>🚀 Projects:</h2>
 *Add your project descriptions here.*
 
+<h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
