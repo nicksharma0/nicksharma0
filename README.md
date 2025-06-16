@@ -2,8 +2,7 @@
 
 **Location:** Prosper, Texas 
 **Email:** sharma.nick67@gmail.com  
-**LinkedIn:** [Your LinkedIn URL]  
-**GitHub:** [Your GitHub URL]
+**LinkedIn:** [Link](https://www.linkedin.com/in/nick-sharma1/)
 
 ---
 
