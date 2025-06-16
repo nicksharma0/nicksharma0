@@ -16,7 +16,8 @@ Student of the Month: January 2022
 Graduation: May 2025
 
 <h2>🚀 Projects:</h2>
-- <b>AI Cold Email Generator)</b>
+- <b>AI Cold Email Generator</b>
+- [Generates a cold email given desired job position and resume](https://github.com/nicksharma0/resume-ai)
 
 
 <h2> 🤳 Connect with me:</h2>
