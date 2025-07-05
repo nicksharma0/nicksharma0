@@ -17,10 +17,12 @@ Graduation: May 2025
 
 <h2>🚀 Projects</h2>
 <ul>
-    <li><b><a href="https://github.com/nicksharma0/RealtorRadar">Realtor Radar</a></b> — A data-driven real estate analyzer built with Streamlit to help identify undervalued properties using interactive filters, visuals, and AI-assisted development.</li>
+  <li><b><a href="https://github.com/nicksharma0/open-calc">OpenCalc</a></b> — A visual, student-built AP Calculus AB course with interactive demos and intuitive explanations.</li>
+  <li><b><a href="https://github.com/nicksharma0/RealtorRadar">Realtor Radar</a></b> — A data-driven real estate analyzer built with Streamlit to help identify undervalued properties using interactive filters, visuals, and AI-assisted development.</li>
   <li><b><a href="https://github.com/nicksharma0/resume-ai">AI Cold Email Generator</a></b> — Generates a cold email given a desired job position and resume</li>
   <li><b><a href="https://github.com/nicksharma0/stock-view">Stock Viewer App</a></b> — Desktop GUI to view stock data (price chart, market cap, 52-week range, etc.) using Python</li>
 </ul>
+
 
 
 <h2> 🤳 Connect with me:</h2>
